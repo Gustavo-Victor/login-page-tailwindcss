@@ -1,15 +1,18 @@
 {
-  "name": "login-page",
+  "name": "login-page-tailwindcss",
   "version": "1.0.0",
-  "description": "",
+  "description": "It is a simple login page built using html, css and tailwindcss",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "dev": "npx tailwindcss -i ./src/input.css -o ./src/style.css --watch "
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "keywords": ["web", "html", "front-end", "css", "tailwindcss", "tailwind"],
+  "author": "Gustavo Victor",
+  "license": "MIT",
+  "repository": {
+    "url": "https://github.com/Gustavo-Victor/login-page-tailwindcss"
+  },
   "devDependencies": {
     "tailwindcss": "^3.4.1"
   }
