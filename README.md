@@ -24,7 +24,7 @@ A página foi desenvolvida durante um curso do canal [Tiago Matos](https://www.y
 
 ## 🎨 Layout
 
-<img src="./src/assets/images/screenshots/desktop.png" alt="Desktop" title="Desktop"> <img src="./src/assets/images/screenshots/mobile.png" alt="Mobile" title="Mobile">
+<img width="500" src="./src/assets/images/login-page-layout.png" alt="Desktop" title="Desktop">
 
 
 ## 🛠 Tecnologias e Ferramentas
@@ -37,7 +37,7 @@ A página foi desenvolvida durante um curso do canal [Tiago Matos](https://www.y
 ## 💻 Como usar
 
 Antes de continuar, é recomendado possuir alguns conhecimentos básicos de [HTML5](https://developer.mozilla.org/pt-BR/docs/Web/HTML), [CSS3](https://developer.mozilla.org/pt-BR/docs/Web/HTML) e [JavaScript](https://www.javascript.com/) e
-Além disso, você precisa ter instalado em sua máquina o [GIT](https://git-scm.com/), [Node](https://nodejs.org/en) e um **editor de texto** de sua preferência. Recomendo sempre o [Visual Studio Code](https://code.visualstudio.com/). 
+além disso, você precisa ter instalado em sua máquina o [GIT](https://git-scm.com/), [Node](https://nodejs.org/en) e um **editor de texto** de sua preferência. Recomendo sempre o [Visual Studio Code](https://code.visualstudio.com/). 
 
 Um guia básico sobre como instalar e executar o projeto na sua máquina local: 
 
@@ -69,6 +69,9 @@ Um guia básico sobre como instalar e executar o projeto na sua máquina local:
 ```
 
 5. Abra o projeto no seu navegador de preferência
+
+- Abra o arquivo ./src/index.html em qualquer navegador web
+- Qualquer edição de estilo por padrão é feita no arquivo ./src/input.css
 
 <hr/>
 
